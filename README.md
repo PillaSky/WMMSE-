@@ -1,2 +1,3 @@
-# WMMSE大解密
-整理並拆解WMMSE演算法
+# Optimization-Algorithms
+
+WMMSE (Weighted Minimum mean square error)
